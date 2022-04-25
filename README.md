@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-https://github.com/waszka-paszka/...
+https://waszka-paszka.github.io/.../
 https://docs.google.com/spreadsheets/d/16oHL-plvv9qhUEbCavH5xDvpaUQGCZOJkf2t2I2W71U/edit?fbclid=IwAR0emVxZ_52afGpe57gWuhcwqMb6DwHpq4w8Heg5fEqLg3wkYpmjqNbPFzY#gid=0
 
 ## Create Your Own
